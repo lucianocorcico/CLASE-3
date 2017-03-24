@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490317156 source:d:\clase 3 laboratorio\clase 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1490317018 source:d:\clase 3 laboratorio\clase 3\biblioteca.c
+	<stdio.h>
+
+1490316466 d:\clase 3 laboratorio\clase 3\biblioteca.c
+
+1490316383 d:\clase 3 laboratorio\clase 3\biblioteca.h
+
