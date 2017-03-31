@@ -14,3 +14,15 @@
 
 1490829657 d:\clase4\func.h
 
+1490921298 source:c:\users\alumno\desktop\clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1490921298 c:\users\alumno\desktop\clase4\func.h
+
+1490921298 source:c:\users\alumno\desktop\clase4\func.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
